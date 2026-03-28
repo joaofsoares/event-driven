@@ -1,0 +1,2 @@
+git hub = git remote add origin git@github.com:joaofsoares/event-driven.git
+code berg = git remote add origin https://codeberg.org/joaofsoares/event-driven.git
